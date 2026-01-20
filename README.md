@@ -21,7 +21,7 @@ See `REPRODUCE.md` for the full end‑to‑end workflow and environment details.
 
 ## Reference output
 
-- `examples/with_audio_xtts_long.mov`
+- `examples/with_audio_xtts_long.mp4`
 
 ## Credits
 

@@ -8,6 +8,7 @@ __pycache__/
 outputs/
 runs/
 *.mp4
+!examples/*.mp4
 *.mov
 !examples/*.mov
 *.wav
