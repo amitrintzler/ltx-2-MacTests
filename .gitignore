@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.so
+*.log
+.DS_Store
+.env
+.venv
+outputs/
+runs/
+*.mp4
+*.mov
+*.wav
+*.aiff
