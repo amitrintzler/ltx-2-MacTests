@@ -23,6 +23,8 @@ See `REPRODUCE.md` for the full end‑to‑end workflow and environment details.
 
 - `examples/with_audio_xtts_long.mp4`
 
+<video controls src="examples/with_audio_xtts_long.mp4"></video>
+
 ## Credits
 
 - **LTX‑Video** by Lightricks: https://github.com/Lightricks/LTX-Video
