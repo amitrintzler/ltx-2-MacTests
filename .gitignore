@@ -9,5 +9,6 @@ outputs/
 runs/
 *.mp4
 *.mov
+!examples/*.mov
 *.wav
 *.aiff

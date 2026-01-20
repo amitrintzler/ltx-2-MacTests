@@ -19,6 +19,10 @@ LTX_VIDEO_DIR=../LTX-Video scripts/mux_audio.sh
 
 See `REPRODUCE.md` for the full end‑to‑end workflow and environment details.
 
+## Reference output
+
+- `examples/with_audio_xtts_long.mov`
+
 ## Credits
 
 - **LTX‑Video** by Lightricks: https://github.com/Lightricks/LTX-Video
